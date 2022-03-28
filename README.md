@@ -1,4 +1,7 @@
-![logo](https://raw.githubusercontent.com/macsigraph/logo/main/logo.jpg)
+<p align="center">
+  <img src="logo.jpg" alt="logo" width="200"/>
+</p>
 
 # macsigraph
-kernel for graph calculations 
+
+This is the graph calculation kernel used in macsigraph pubs and meetings repositories
