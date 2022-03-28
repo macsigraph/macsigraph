@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/macsigraph/logo/main/logo.jpg" alt="logo" width="200"/>
 </p>
 
 # macsigraph
